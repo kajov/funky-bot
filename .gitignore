@@ -4,3 +4,7 @@ config.json
 .npmrc
 node_modules/
 node_modules/*
+.github/
+.github/*
+.gitlab/
+.gitlab/*
