@@ -1,0 +1,6 @@
+config.json
+.idea/
+.idea/*
+.npmrc
+node_modules/
+node_modules/*
